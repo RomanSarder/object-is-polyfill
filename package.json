@@ -1,0 +1,11 @@
+{
+  "name": "object-is-polyfill",
+  "version": "1.0.0",
+  "description": "Just a polyfill for Object.is utility function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roman Sarder",
+  "license": "ISC"
+}
