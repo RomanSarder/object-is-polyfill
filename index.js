@@ -1,4 +1,4 @@
-if (!Object.is || true) {
+if (!Object.is) {
     Object.is = function (a, b) {
 
         const isArgumentNumber = arg => typeof arg === 'number'
